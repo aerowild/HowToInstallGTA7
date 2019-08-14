@@ -171,7 +171,7 @@ if distance > 0:
 	print '...'
 	tm.sleep(1)
 	print "\n\nhurrah!!! All set. \n\nNoob, nowlisten to me."
-	print "\nIf you don't distroy the ship, I guarantee you to tell the answer of your question. Just, let us travel."
+	print "\nIf you don't destroy the ship, I guarantee you to tell the answer of your question. Just, let us travel."
 	print "\nEstimated time of flight: %d Seconds (Every Second counts)" % distance
 	tm.sleep(5)
 	print "\n\n\n\n\nTravelling at the speed of time. Hold on!\n"
