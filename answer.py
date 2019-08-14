@@ -99,7 +99,7 @@ shipInSpace=textwrap.dedent('''\
 answer='https://www.google.co.kr/search?q=how+to+install+GTA+7'
 
 now = datetime.datetime.now()
-distance=(((2022-now.year)*12)-now.month)*2592000
+distance=(((2027-now.year)*12)-now.month)*2592000
 
 print "\n\nDear noob 'GTA 7' seeker, welcome."
 tm.sleep(1)
